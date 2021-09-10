@@ -2,7 +2,7 @@
 
 1. Clone
 ```bash
-git clone https://github.com/shahmar10/coffee-shop
+git clone https://github.com/shahmar10/coofee-shop
 ```
 2. cd into your project
 ```bash
